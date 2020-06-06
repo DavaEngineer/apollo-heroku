@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/DavaErde/apollo-heroku#readme",
   "dependencies": {
-    "apollo-server": "^2.6.7",
+    "apollo-server": "^2.14.2",
     "graphql": "^14.4.0"
   }
 }
